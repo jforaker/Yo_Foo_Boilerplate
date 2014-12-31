@@ -11,10 +11,7 @@
 
 ## Installation is a breeze:
 
-`npm install`
-
-`bower install`
-
-`grunt build`
-
-`grunt server`
+1. `npm install`
+2. `bower install`
+3. `grunt build`
+4. `grunt server`
